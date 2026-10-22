@@ -1,0 +1,10 @@
+# Настройки IDE (WebStorm)
+.idea/
+.vscode/
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Зависимости (если решишь использовать npm-пакеты в будущем)
+node_modules/

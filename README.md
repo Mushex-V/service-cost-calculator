@@ -20,7 +20,6 @@ service-cost-calculator/
 ├── src/
 │   └── scss/
 │       ├── _variables.scss
-│       ├── _mixins.scss
 │       └── style.scss
 │   └── script.js
 ├── dist/
@@ -53,7 +52,6 @@ service-cost-calculator/
 ├── src/
 │   └── scss/
 │       ├── _variables.scss
-│       ├── _mixins.scss
 │       └── style.scss
 │   └── script.js
 ├── dist/

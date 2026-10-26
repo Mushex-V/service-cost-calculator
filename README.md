@@ -28,8 +28,10 @@ service-cost-calculator/
 └── .gitignore
 ```
 
+## 🚀 Project link
+[See calculator in real life](https://sevice-cost-calculator.netlify.app)
 ---
-
+https://sevice-cost-calculator.netlify.app
 # Service Cost Calculator
 
 Интерактивный калькулятор стоимости услуг для предварительного расчета сметы в реальном времени, разработанный для портфолио.
@@ -58,3 +60,7 @@ service-cost-calculator/
 │   └── style.css
 ├── index.html
 └── .gitignore
+```
+
+## 🚀 Ссылка на проект
+[Посмотреть калькулятор в живую](https://sevice-cost-calculator.netlify.app)
